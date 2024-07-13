@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_06_24.MissedTask", "13_06_24.MissedTask\13_06_24.MissedTask.csproj", "{3379DA86-AA5B-46A5-8919-1B2D989A00C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3379DA86-AA5B-46A5-8919-1B2D989A00C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3379DA86-AA5B-46A5-8919-1B2D989A00C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3379DA86-AA5B-46A5-8919-1B2D989A00C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3379DA86-AA5B-46A5-8919-1B2D989A00C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4956964-0A0B-4E96-94E3-F23EFE999351}
+	EndGlobalSection
+EndGlobal
